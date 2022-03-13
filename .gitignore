@@ -9,6 +9,7 @@ __not/
 __pycache__
 *.pickle
 ./runs
+events*
 
 #tensorflow
 *.index
