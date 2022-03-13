@@ -8,6 +8,7 @@ model/
 __not/
 __pycache__
 *.pickle
+./runs
 
 #tensorflow
 *.index
